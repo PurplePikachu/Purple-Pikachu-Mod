@@ -1,0 +1,17 @@
+research: {
+  parent: mono
+  requirements: [
+    copper/100
+    graphtainium/200
+    graphite/100
+  ]
+}
+type: flying
+weapons: [
+  {
+    bullet: {
+      type: BasicBulletType
+      damage: 100
+    }
+  }
+]
