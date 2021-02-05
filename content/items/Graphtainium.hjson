@@ -1,8 +1,8 @@
 research: {
   parent: graphite
   requirements: [
-    research: graphite
-    research: titanium
+    graphite/200
+    titanium/200
   ]
 }
 type: Metals
