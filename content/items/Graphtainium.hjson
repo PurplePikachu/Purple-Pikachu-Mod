@@ -1,0 +1,10 @@
+research: {
+  parent: graphite
+  requirements: [
+    research: graphite
+    research: titanium
+  ]
+}
+type: Metals
+name: Graphtainium
+description: Fusion of Graphite and Titanium. Used to make fast conveyors and big units.
