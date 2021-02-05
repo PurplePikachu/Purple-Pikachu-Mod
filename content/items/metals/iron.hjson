@@ -4,6 +4,7 @@ description: Used for walls and other machinery stuff.
 research: {
   parent: lead
   requirements: [
-    research: graphite
+    lead/500
+    copper/1000
   ]
 }
